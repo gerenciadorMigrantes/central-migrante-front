@@ -1,6 +1,10 @@
 {
   "name": "central-migrante",
   "version": "0.0.0",
+  "engines": {
+    "node": "14.15.5",
+    "npm": "8.5.4"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
