@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  API: 'https://gerenciador-migrantes.herokuapp.com//'
+  API: 'https://gerenciador-migrantes.herokuapp.com/'
 };

@@ -10,7 +10,7 @@ import {Endereco} from "../model/endereco.model";
 })
 export class EnderecoService {
 
-  apiUrl = `${environment.API}enderecos`;
+  apiUrl = `${environment.API}/enderecos`;
   httpOptions = {
     heeaders: new HttpHeaders({
       'Content-Type': 'application/json'
