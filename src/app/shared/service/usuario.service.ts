@@ -10,7 +10,7 @@ import {take} from "rxjs/operators";
 })
 export class UsuarioService {
 
-  apiUrl = `${environment.API}/usuarios`;
+  apiUrl = `${environment.API}usuarios`;
   httpOptions = {
     heeaders: new HttpHeaders({
       'Content-Type': 'application/json'
