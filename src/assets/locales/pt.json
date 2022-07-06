@@ -44,7 +44,7 @@
     "city": "Cidade",
     "street": "Rua",
     "number": "Número",
-    "psotalcode": "Cep"
+    "postalcode": "Cep"
   },
 
   "toolbar": {
