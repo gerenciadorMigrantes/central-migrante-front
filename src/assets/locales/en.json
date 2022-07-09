@@ -29,7 +29,7 @@
     "bankacc": "Do you have a bank account in Brazil?",
     "lang": "Languages that are missing and understand",
     "hasfamilybrasil": "Do you have relatives in Brazil?",
-    "entryway": " Entryway",
+    "entyway": " Entryway",
     "gender": "Gender",
     "color": " color ",
     "schooling": " Schooling ",
@@ -44,7 +44,7 @@
     "city": " City ",
     "street": " Street ",
     "number": "Number",
-    "psotalcode": " Postal code"
+    "postalcode": " Postal code"
   },
 
   "toolbar": {
