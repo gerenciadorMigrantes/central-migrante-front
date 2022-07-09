@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  API: 'https://gerenciador-migrantes.herokuapp.com/'
+  API: 'http://localhost:3333/'
 };
 
 /*

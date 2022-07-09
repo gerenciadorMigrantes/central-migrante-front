@@ -33,7 +33,7 @@ export class EditarUsuarioComponent implements OnInit {
     telefone: [null],
     cpf: [null],
     crnm: [null],
-    crnmvencimento: [null],
+    crnmVencimento: [null],
     protocoloSolicitacaoRefugio: [null],
     passaporte: [null],
 
@@ -112,7 +112,7 @@ export class EditarUsuarioComponent implements OnInit {
       telefone: usuario.telefone,
       cpf: usuario.cpf,
       crnm: usuario.crnm,
-      crnmvencimento: usuario.crnmvencimento,
+      crnmVencimento: usuario.crnmVencimento,
       protocoloSolicitacaoRefugio: usuario.protocoloSolicitacaoRefugio,
       passaporte: usuario.passaporte,
 
