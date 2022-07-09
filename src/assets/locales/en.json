@@ -24,12 +24,13 @@
     "protocol": "Refugee Application Protocol",
     "passport": "Passport",
     "savecontinue": "Save and continue",
+    "save": "Save",
     "cancel": "Cancel",
     "continue": "Continue",
     "bankacc": "Do you have a bank account in Brazil?",
     "lang": "Languages that are missing and understand",
     "hasfamilybrasil": "Do you have relatives in Brazil?",
-    "entyway": " Entryway",
+    "entryway": " Entryway",
     "gender": "Gender",
     "color": " color ",
     "schooling": " Schooling ",
@@ -44,7 +45,8 @@
     "city": " City ",
     "street": " Street ",
     "number": "Number",
-    "postalcode": " Postal code"
+    "postalcode": " Postal code",
+    "select": "Select..."
   },
 
   "toolbar": {

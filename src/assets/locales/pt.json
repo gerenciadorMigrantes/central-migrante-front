@@ -24,12 +24,13 @@
     "protocol": "Protocolo de Solicitação de Refúgio",
     "passport": "Passaporte",
     "savecontinue": "Salvar e Continuar",
+    "save": "Salvar",
     "cancel": "Cancelar",
     "continue": "Continuar",
     "bankacc": "Tem conta bancária no Brasil?",
     "lang": "Idioma que fala e compreende",
     "hasfamilybrasil": "Tem familiares no Brasil?",
-    "entyway": "Via de entrada",
+    "entryway": "Via de entrada",
     "gender": "Gênero",
     "color": "Cor ou raça",
     "schooling": "Escolaridade",
@@ -44,7 +45,8 @@
     "city": "Cidade",
     "street": "Rua",
     "number": "Número",
-    "postalcode": "Cep"
+    "postalcode": "Cep",
+    "select": "Selecione..."
   },
 
   "toolbar": {

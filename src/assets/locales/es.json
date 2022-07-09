@@ -24,12 +24,13 @@
     "protocol": "Protocolo de Solicitud de refugio",
     "passport": "Pase",
     "savecontinue": "Guardar y Continuar",
+    "save": "Salvar",
     "cancel": "Para Cancelar",
     "continue": "Para Continuar",
     "bankacc": " ¿Tienes una cuenta bancaria en Brasil?",
     "lang": " Idioma que habla y entiende ",
     "hasfamilybrasil": " ¿Tiene familiares en Brasil?",
-    "entyway": " forma de entrada ",
+    "entryway": " forma de entrada ",
     "gender": "Género",
     "color": " color o raza ",
     "schooling": " educación ",
@@ -44,7 +45,8 @@
     "city": " Ciudad ",
     "street": " La carretera ",
     "number": "Número",
-    "postalcode": " Código Postal "
+    "postalcode": " Código Postal",
+    "select": "Seleccione..."
   },
 
   "toolbar": {

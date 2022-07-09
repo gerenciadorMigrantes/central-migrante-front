@@ -18,6 +18,38 @@ export class EditarUsuarioComponent implements OnInit {
 
   isView: boolean = false;
 
+  estados = [
+    //ESTADOS COM FRONTEIRA COM PAISES
+    "SantaCatarina-SC",
+    "Amapá-AP",
+    "Pará-PA",
+    "Roraima-RR",
+    "Amazonas-AM",
+    "Acre-AC",
+    "Rondônia-RO",
+    "MatoGrosso-MT",
+    "MatoGrossodoSul-MS",
+    "Paraná-PR",
+    "RioGrandedoSul-RS",
+
+    //ESTADOS SEM FRONTEIRA COM PAISES
+    "Alagoas-AL",
+    "Bahia-BA",
+    "Ceará-CE",
+    "EspíritoSanto-ES",
+    "Goiás-GO",
+    "Maranhão-MA",
+    "MinasGerais-MG",
+    "Paraíba-PB",
+    "Pernambuco-PE",
+    "Piauí-PI",
+    "RiodeJaneiroRJ",
+    "RioGrandedoNorte-RN",
+    "SãoPaulo-SP",
+    "Sergipe-SE",
+    "Tocantins-TO",
+    "DistritoFederal-DF"];
+
   form: FormGroup = this.fb.group({
     id: [0],
     nome: ["null", [Validators.required, Validators.minLength(3), Validators.maxLength(250)]],
